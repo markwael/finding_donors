@@ -61,6 +61,3 @@ The model identified the top 5 features influencing high income:
 **Clone the Repository**
    ```bash
    git clone [https://github.com/markwael/CharityML-Finding-Donors.git] (https://github.com/markwael/CharityML-Finding-Donors.git)
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/markwael/CharityML-Finding-Donors.git](https://github.com/markwael/CharityML-Finding-Donors.git)
